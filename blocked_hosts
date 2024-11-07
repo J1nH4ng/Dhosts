@@ -1,8 +1,6 @@
-eva2.csdn.net;
-silkroad.csdn.net;
-www.clarity.ms;
-r.bing.com;
-hm.baidu.com;
-*.aliapp.org;
-*.alibaba.com;
-*.*porn*.com;
+# CSDN
+eva2.csdn.net;silkroad.csdn.net;
+# Tencent
+otheve.beacon.qq.com;h.trace.qq.com;
+# Microsoft
+ts*.cn.mm.bing.net;edge.microsoft.com;r.bing.com;www.clarity.ms;
